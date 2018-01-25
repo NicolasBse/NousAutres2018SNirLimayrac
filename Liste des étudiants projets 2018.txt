@@ -1,5 +1,7 @@
 DaKprofSNir		daniel.kihn@limayrac.fr
 CretonDavid   david.creton@limayrac.fr
 
+I2CScanner brisenicolas@gmail.com
+
 
 

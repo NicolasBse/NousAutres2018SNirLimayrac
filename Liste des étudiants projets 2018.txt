@@ -1,4 +1,5 @@
 DaKprofSNir		daniel.kihn@limayrac.fr
 
+I2CScanner  brisenicolas@gmail.com
 
 
